@@ -1,0 +1,13 @@
+For the program corresponding to Q3 : 
+
+
+1.  To calculate spatial derivative in Fourier space and evolve using Euler explicit, choose option 0
+
+2.  To implement the second-order implicit BDF/AB scheme, choose option 2
+
+3.  To select the number of nodes in the grid, select 1 for 128 nodes, 2 for 254 nodes and 3 for 384 nodes respectively.
+
+
+Thank you!
+
+ENJOY :) ;P
